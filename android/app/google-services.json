@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035536216991",
+    "project_id": "dream-team-prediction-b76e6",
+    "storage_bucket": "dream-team-prediction-b76e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035536216991:android:1e8684099fbee7cd3303aa",
+        "android_client_info": {
+          "package_name": "in.technicalkeeda.dtp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035536216991-71vet2dv599juu9n21s4mjcmbml32krr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtzAx8IaekTpHv-YRkMxUDwCyBa0TK9Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035536216991-71vet2dv599juu9n21s4mjcmbml32krr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

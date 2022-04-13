@@ -1,0 +1,50 @@
+name: my_dream_prediction
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+version: 1.0.0+6
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  http: ^0.13.3
+  url_launcher: ^6.0.20
+  flutter_launcher_icons: ^0.9.2
+  rename: any
+  flutter:
+    sdk: flutter
+  google_mobile_ads: ^1.1.0
+  firebase_core: ^1.13.1
+  firebase_messaging: ^11.2.11
+  flutter_local_notifications: ^9.4.0
+
+
+  cupertino_icons: ^1.0.2
+  share_plus: ^4.0.2
+  
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/dtplaunchericon.png"
+  
+dev_dependencies:
+  change_app_package_name: any
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+  assets:
+    - assets/icon/
+    - assets/
+
+
+ 
+  uses-material-design: true
+
